@@ -12,7 +12,7 @@ If you've found a `mikeage` on the internet, it's almost definitely me. Or a typ
 
 ## Interesting Repos that I've contributed to:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icosa-gallery&repo=open-brush)](https://github.com/icosa-gallery/open-brush)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icosa-foundation&repo=open-brush)](https://github.com/icosa-foundation/open-brush)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=core)](https://github.com/homeassistant/core)
 
